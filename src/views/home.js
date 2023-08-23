@@ -17,7 +17,7 @@ const Home = (props) => {
         rel="noreferrer noopener"
         className="home-link"
       >
-        <img alt="image" src="/523533-400h.jpg" className="home-image" />
+        <img alt="image" src="/plbut.jpg" className="home-image" />
       </a>
     </div>
   )

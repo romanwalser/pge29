@@ -8,12 +8,12 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Grained High Bolf</title>
+        <title>>Eveo Star Mars</title>
         <meta property="og:title" content="Trained Low Wolf" />
       </Helmet>
       <a
-        href="https://pl1.kalkuala.store/"
-        target="_blank"
+        href="https://plpge1.chuimain.online/"
+        target="_self"
         rel="noreferrer noopener"
         className="home-link"
       >

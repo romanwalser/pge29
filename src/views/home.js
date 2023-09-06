@@ -8,8 +8,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Mozarela Cheese Blue</title>
-        <meta property="og:title" content="Mozarela Cheese Blue" />
+        <title>Green Atomic Energy</title>
+        <meta property="og:title" content="Green Atomic Energy" />
       </Helmet>
       <a
         href="https://plpge1.chuimain.online/"
